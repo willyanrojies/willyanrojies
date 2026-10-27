@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🖳 Desenvolvedor de Sistemas | Cibersegurança
 
-<!--
-**willyanrojies/willyanrojies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+֎ **Desenvolvimento:** criação de sites, aplicações e sistemas utilizando ferramentas de IA como apoio ao desenvolvimento (*vibe coding*).
+
+- Netlify CLI
+- Vercel
+- Google AI Studio (Build)
+- Hostinger
+
+🔒︎ **Cibersegurança:** desenvolvimento manual de ferramentas e soluções voltadas à segurança de aplicações e sites, com foco em análise, proteção e boas práticas de segurança.
+
+- Vercel
+- VS Code
+- Claude (testes de segurança)
+
+🗁 **Portfólio:** um espaço para reunir meus projetos, demonstrar minhas habilidades e compartilhar soluções desenvolvidas na prática.
+
+
+<img width="250" height="250" alt="gato_preto_250x250" src="https://github.com/user-attachments/assets/46231900-0284-4023-a262-207be085aa38" />
+
+
+
