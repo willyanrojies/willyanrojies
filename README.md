@@ -17,7 +17,6 @@
 - Claude (testes de segurança)
 
 🗁 **Portfólio:** um espaço para reunir meus projetos, demonstrar minhas habilidades e compartilhar soluções desenvolvidas na prática.
-roijesvlogs@gmail.com
 
 <img width="250" height="250" alt="gato_preto_250x250" src="https://github.com/user-attachments/assets/46231900-0284-4023-a262-207be085aa38" />
 
